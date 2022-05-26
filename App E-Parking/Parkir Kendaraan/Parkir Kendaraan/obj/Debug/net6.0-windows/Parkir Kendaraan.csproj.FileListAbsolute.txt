@@ -1,0 +1,46 @@
+D:\Testing Aplikasi\Parkir Kendaraan\Parkir Kendaraan\bin\Debug\net6.0-windows\Parkir Kendaraan.exe
+D:\Testing Aplikasi\Parkir Kendaraan\Parkir Kendaraan\bin\Debug\net6.0-windows\Parkir Kendaraan.deps.json
+D:\Testing Aplikasi\Parkir Kendaraan\Parkir Kendaraan\bin\Debug\net6.0-windows\Parkir Kendaraan.runtimeconfig.json
+D:\Testing Aplikasi\Parkir Kendaraan\Parkir Kendaraan\bin\Debug\net6.0-windows\Parkir Kendaraan.dll
+D:\Testing Aplikasi\Parkir Kendaraan\Parkir Kendaraan\bin\Debug\net6.0-windows\Parkir Kendaraan.pdb
+D:\Testing Aplikasi\Parkir Kendaraan\Parkir Kendaraan\obj\Debug\net6.0-windows\Parkir Kendaraan.csproj.AssemblyReference.cache
+D:\Testing Aplikasi\Parkir Kendaraan\Parkir Kendaraan\obj\Debug\net6.0-windows\Parkir_Kendaraan.Form1.resources
+D:\Testing Aplikasi\Parkir Kendaraan\Parkir Kendaraan\obj\Debug\net6.0-windows\Parkir Kendaraan.csproj.GenerateResource.cache
+D:\Testing Aplikasi\Parkir Kendaraan\Parkir Kendaraan\obj\Debug\net6.0-windows\Parkir Kendaraan.GeneratedMSBuildEditorConfig.editorconfig
+D:\Testing Aplikasi\Parkir Kendaraan\Parkir Kendaraan\obj\Debug\net6.0-windows\Parkir Kendaraan.AssemblyInfoInputs.cache
+D:\Testing Aplikasi\Parkir Kendaraan\Parkir Kendaraan\obj\Debug\net6.0-windows\Parkir Kendaraan.AssemblyInfo.cs
+D:\Testing Aplikasi\Parkir Kendaraan\Parkir Kendaraan\obj\Debug\net6.0-windows\Parkir Kendaraan.csproj.CoreCompileInputs.cache
+D:\Testing Aplikasi\Parkir Kendaraan\Parkir Kendaraan\obj\Debug\net6.0-windows\Parkir Kendaraan.dll
+D:\Testing Aplikasi\Parkir Kendaraan\Parkir Kendaraan\obj\Debug\net6.0-windows\refint\Parkir Kendaraan.dll
+D:\Testing Aplikasi\Parkir Kendaraan\Parkir Kendaraan\obj\Debug\net6.0-windows\Parkir Kendaraan.pdb
+D:\Testing Aplikasi\Parkir Kendaraan\Parkir Kendaraan\obj\Debug\net6.0-windows\Parkir Kendaraan.genruntimeconfig.cache
+D:\Testing Aplikasi\Parkir Kendaraan\Parkir Kendaraan\obj\Debug\net6.0-windows\ref\Parkir Kendaraan.dll
+D:\Testing Aplikasi\Parkir Kendaraan\Parkir Kendaraan\obj\Debug\net6.0-windows\Parkir_Kendaraan.Form2.resources
+D:\Testing Aplikasi\Parkir Kendaraan\Parkir Kendaraan\obj\Debug\net6.0-windows\Parkir_Kendaraan.Form3.resources
+D:\Testing Aplikasi\Parkir Kendaraan\Parkir Kendaraan\obj\Debug\net6.0-windows\Parkir_Kendaraan.Properties.Resources.resources
+D:\Parkir Kendaraan\Parkir Kendaraan\obj\Debug\net6.0-windows\Parkir Kendaraan.csproj.AssemblyReference.cache
+D:\Parkir Kendaraan\Parkir Kendaraan\obj\Debug\net6.0-windows\Parkir_Kendaraan.Form1.resources
+D:\Parkir Kendaraan\Parkir Kendaraan\obj\Debug\net6.0-windows\Parkir_Kendaraan.Form2.resources
+D:\Parkir Kendaraan\Parkir Kendaraan\obj\Debug\net6.0-windows\Parkir_Kendaraan.Form3.resources
+D:\Parkir Kendaraan\Parkir Kendaraan\obj\Debug\net6.0-windows\Parkir_Kendaraan.Properties.Resources.resources
+D:\Parkir Kendaraan\Parkir Kendaraan\obj\Debug\net6.0-windows\Parkir Kendaraan.csproj.GenerateResource.cache
+D:\Parkir Kendaraan\Parkir Kendaraan\obj\Debug\net6.0-windows\Parkir Kendaraan.GeneratedMSBuildEditorConfig.editorconfig
+D:\Parkir Kendaraan\Parkir Kendaraan\obj\Debug\net6.0-windows\Parkir Kendaraan.AssemblyInfoInputs.cache
+D:\Parkir Kendaraan\Parkir Kendaraan\obj\Debug\net6.0-windows\Parkir Kendaraan.AssemblyInfo.cs
+D:\Parkir Kendaraan\Parkir Kendaraan\obj\Debug\net6.0-windows\Parkir Kendaraan.csproj.CoreCompileInputs.cache
+D:\Parkir Kendaraan\Parkir Kendaraan\obj\Debug\net6.0-windows\Parkir Kendaraan.dll
+D:\Parkir Kendaraan\Parkir Kendaraan\obj\Debug\net6.0-windows\refint\Parkir Kendaraan.dll
+D:\Parkir Kendaraan\Parkir Kendaraan\obj\Debug\net6.0-windows\Parkir Kendaraan.pdb
+C:\Users\ASUS\Downloads\E-Parking\Parkir Kendaraan\Parkir Kendaraan\obj\Debug\net6.0-windows\Parkir Kendaraan.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\E-Parking\Parkir Kendaraan\Parkir Kendaraan\obj\Debug\net6.0-windows\Parkir_Kendaraan.Form1.resources
+C:\Users\ASUS\Downloads\E-Parking\Parkir Kendaraan\Parkir Kendaraan\obj\Debug\net6.0-windows\Parkir_Kendaraan.Form2.resources
+C:\Users\ASUS\Downloads\E-Parking\Parkir Kendaraan\Parkir Kendaraan\obj\Debug\net6.0-windows\Parkir_Kendaraan.Form3.resources
+C:\Users\ASUS\Downloads\E-Parking\Parkir Kendaraan\Parkir Kendaraan\obj\Debug\net6.0-windows\Parkir_Kendaraan.Properties.Resources.resources
+C:\Users\ASUS\Downloads\E-Parking\Parkir Kendaraan\Parkir Kendaraan\obj\Debug\net6.0-windows\Parkir Kendaraan.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\E-Parking\Parkir Kendaraan\Parkir Kendaraan\obj\Debug\net6.0-windows\Parkir Kendaraan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Downloads\E-Parking\Parkir Kendaraan\Parkir Kendaraan\obj\Debug\net6.0-windows\Parkir Kendaraan.AssemblyInfoInputs.cache
+C:\Users\ASUS\Downloads\E-Parking\Parkir Kendaraan\Parkir Kendaraan\obj\Debug\net6.0-windows\Parkir Kendaraan.AssemblyInfo.cs
+C:\Users\ASUS\Downloads\E-Parking\Parkir Kendaraan\Parkir Kendaraan\obj\Debug\net6.0-windows\Parkir Kendaraan.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\E-Parking\Parkir Kendaraan\Parkir Kendaraan\obj\Debug\net6.0-windows\Parkir Kendaraan.dll
+C:\Users\ASUS\Downloads\E-Parking\Parkir Kendaraan\Parkir Kendaraan\obj\Debug\net6.0-windows\refint\Parkir Kendaraan.dll
+C:\Users\ASUS\Downloads\E-Parking\Parkir Kendaraan\Parkir Kendaraan\obj\Debug\net6.0-windows\Parkir Kendaraan.pdb
